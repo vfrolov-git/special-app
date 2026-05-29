@@ -25,6 +25,4 @@ def factorial(n):
 
 print(f'Factorial = ', factorial(7)) # change n to test Github
 
-# test origin + remote together
-def future(): # blanc func
-    pass
+
