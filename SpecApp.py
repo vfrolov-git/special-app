@@ -23,4 +23,4 @@ def factorial(n):
         return n * factorial(n - 1)
 
 
-print(f'Factorial = ', factorial(5))
+print(f'Factorial = ', factorial(7)) # change n to test Github 
