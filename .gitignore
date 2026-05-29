@@ -1,5 +1,0 @@
-*.xml
-*.iml
-Log_files/*.log
-for_ignore_doc.docx
-!Log_files/sample.log
