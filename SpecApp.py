@@ -1,4 +1,6 @@
 # Test GIT
+print('Add changes from new-contacts branch')
+
 print('folder spec-app') # test merge
 for i in range (2, 7):
     if i % 2 == 0:
