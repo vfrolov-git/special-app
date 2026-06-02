@@ -9,5 +9,4 @@ for i in range(n):
     n -= 1
     print(n)
 
-sum_num = (lambda a, b, c: a + b +c)
-print(sum_num(3, 4, 5))
+
