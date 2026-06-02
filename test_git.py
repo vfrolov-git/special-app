@@ -1,4 +1,6 @@
 # test file for git
+print('folder spec-app-2, file test_git') # testing merge
+
 n = 10
 
 print('Number', n)
