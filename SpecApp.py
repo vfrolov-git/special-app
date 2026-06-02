@@ -1,5 +1,5 @@
 # Test GIT
-print('folder spec-app') # test merge
+print('folder spec-app, file SpecApp') # testing merge
 for i in range (2, 7):
     if i % 2 == 0:
         print(f'Even number{i}')
