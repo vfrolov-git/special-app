@@ -1,5 +1,11 @@
 # Test GIT
+<<<<<<< HEAD
 print('folder spec-app, file SpecApp') # testing merge
+=======
+print('Add changes from new-contacts branch')
+
+print('folder spec-app') # test merge
+>>>>>>> new-contacts
 for i in range (2, 7):
     if i % 2 == 0:
         print(f'Even number{i}')
