@@ -1,11 +1,4 @@
 # Test GIT
-<<<<<<< HEAD
-print('folder spec-app, file SpecApp') # testing merge
-=======
-print('Add changes from new-contacts branch')
-
-print('folder spec-app') # test merge
->>>>>>> new-contacts
 for i in range (2, 7):
     if i % 2 == 0:
         print(f'Even number{i}')
@@ -21,3 +14,8 @@ matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 for row in matrix:
     for element in row:
         print(f' Matrix element {element}')
+
+
+# New branch catalog-filter
+def count():
+    pass
