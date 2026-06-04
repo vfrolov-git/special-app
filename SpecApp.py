@@ -7,7 +7,7 @@ for i in range(2, 7):
 
 print('Lambda: ', list(map(lambda x: x + 3, [1, 2, 3])))  #final version
 
-matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+
 
 for row in matrix:
     for element in row:
