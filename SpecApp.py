@@ -5,9 +5,9 @@ for i in range(2, 7):
         continue
     print(f'Odd number {i}')
 
-print('Lambda: ', list(map(lambda x: x + 3, [1, 2, 3])))  #final version
+print('Lambda: ', list(map(lambda x: x ** 3, [5, 2, 3])))  #final version
 
-
+matrix = [[1, 2], [4, 5]]
 
 for row in matrix:
     for element in row:
