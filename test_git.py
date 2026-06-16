@@ -9,9 +9,5 @@ for i in range(n):
     n -= 1
     print(n)
 
-# Here we test rebase
-matrix = [[1, 2], [3, 4], [5, 6]]
-
-for n in matrix:
-    print(n)
+# Here we test cherry pick
 
